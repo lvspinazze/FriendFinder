@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/lvspinazze/FriendFinder/issues"
   },
-  "homepage": "https://github.com/lvspinazze/FriendFinder#readme"
+  "homepage": "https://github.com/lvspinazze/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "node": "^9.4.0",
+    "path": "^0.12.7"
+  }
 }
